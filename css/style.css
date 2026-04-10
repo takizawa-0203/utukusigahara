@@ -269,7 +269,7 @@ nav ul li a:hover img{
     top: 7vw;
     right: 10vw;
     z-index: 5;
-    font-size: 35px;
+    font-size: 32px;
     font-weight: 500;
     letter-spacing: 5px;
     writing-mode:vertical-rl;
@@ -281,6 +281,9 @@ nav ul li a:hover img{
     height: fit-content;
     background-color: #fff;
     padding: 15px 5px 0;
+}
+.header_copy span:last-child{
+	margin-right:10px;
 }
 
 .header_copy {
