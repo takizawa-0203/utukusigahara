@@ -1376,7 +1376,7 @@ Media Queries（メディアクエリ）
 /* ヘッダー */
     .header_copy {
         position: absolute;
-        font-size: 25px;
+        font-size: 20px;
         top: 20vw;
         right: 6vw;
     }
